@@ -1,0 +1,16 @@
+Step
+
+Create project : perform CRUD operations in core-data using the repository pattern
+Crete entity - entity name - attribute and type (name, email, id(for uniqueness select entity enter id 	in constrain))
+Create group CoreDataSupportFiles and then Create NSManagedObject(editor > 				NSManagedObject) PersistentStorage
+Create model > employee
+Repository > EmployeeDataRepository > create, getAll, get, update, delete
+PersistentStorage > crate func fetchManageObject
+Repository > EmployeeDataRepository > complete get all, get > create getCDEmployee > update 
+	> delete 
+Go to create Manager 
+Create the appflow(layout)
+Extension 
+CreateEmployeeVC > creteButton code 
+EmployeeListVC
+DetailView
